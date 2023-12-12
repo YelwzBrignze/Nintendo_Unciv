@@ -1,7 +1,7 @@
 [
 {
        "name": "Kampung Teluk",
-	"uniqueTo": "Indonesia
+	"uniqueTo": "Indonesia",
        "terrainsCanBeBuiltOn": ["Coast"],
        "production":1,
        "techRequired":"Optics",
