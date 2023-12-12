@@ -67,7 +67,7 @@
 	},
 		{
 		"name": "Desert Plantation",
-    "uniqueTo": "Arabia",
+    "uniqueTo": "Sumeria",
 		"terrainsCanBeBuiltOn": ["Desert"],
 		"gold": 2,
 		"turnsToBuild": 6,
