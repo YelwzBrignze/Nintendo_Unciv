@@ -95,5 +95,14 @@
 		"faith": 6,
 		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]",
 			"[+1 Culture] <after discovering [Archaeology]>","Gives a defensive bonus of [50]%"]
-	} 
+	},
+	{
+		"name": "Dzirvanas",
+		"uniqueTo": "Ukraine",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+		"turnsToBuild": 8,
+		"uniques": ["Cannot be built on [Bonus resource] tiles","Can only be built on [Coastal] tiles","Cannot be built on [Hill] tiles","[+1 Food] <after discovering [Fertilizer]>","[+1 Production] <after discovering [Civil Service]>","[+1 Production] for each adjacent [Dzirvanas]"],
+		"techRequired": "Masonry"
+	}
 ]
