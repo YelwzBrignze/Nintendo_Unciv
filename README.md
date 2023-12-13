@@ -92,3 +92,7 @@ ColziandKing(Backup) - Basic Coding, Importing sounds and music, & support.
         "uniques": ["May buy [Monastery] buildings for [180] [Faith] [in cities following this religion]"]
     }
 ]
+,
+          ,
+		"May buy [Stupa] buildings for [280] [Faith] [in cities following this religion]","May buy [Meeting House] buildings for [350] [Faith] [in cities following this religion]",
+		"May buy [Dar-e Mehr] buildings for [320] [Faith] [in cities following this religion]","May buy [Monastery] buildings for [180] [Faith] [in cities following this religion]"
