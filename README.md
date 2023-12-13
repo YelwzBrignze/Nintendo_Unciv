@@ -53,27 +53,4 @@ ColziandKing(Backup) - Basic Coding, Importing sounds and music, & support.
         ]
     }
 ]
-"[+2 Gold, +2 Culture] from every [Stupa]",
-            "[+2 Gold, +2 Culture] from every [Meeting House]",
-            "[+2 Gold, +2 Culture] from every [Dar-e Mehr]",
-            "[+2 Gold, +2 Culture] from every [Monastery]",
-  {
-        "name": "Stupa",
-        "type": "Follower",
-        "uniques": ["May buy [Stupa] buildings for [280] [Faith] [in cities following this religion]"]
-    },
-  {
-        "name": "Meeting House",
-        "type": "Follower",
-        "uniques": ["May buy [Meeting House] buildings for [350] [Faith] [in cities following this religion]"]
-    },
-{
-        "name": "Dar-e Mehr",
-        "type": "Follower",
-        "uniques": ["May buy [Dar-e Mehr] buildings for [320] [Faith] [in cities following this religion]"]
-    },
-  {
-        "name": "Monastery",
-        "type": "Follower",
-        "uniques": ["May buy [Monastery] buildings for [180] [Faith] [in cities following this religion]"]
-    }
+
