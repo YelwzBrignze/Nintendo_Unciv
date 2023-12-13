@@ -1,0 +1,33 @@
+[
+  {
+		"name": "Colziand Domain",
+		"leaderName": "Raymond Sheen Caballero",
+		"adjective": ["Colzian"],
+          	"startBias": ["Coast","Grassland"],
+		"preferredVictoryType": "Diplomatic",
+	  	"favoredReligion": "The Force",
+	  
+		"startIntroPart1": "Oh Raymond! You who formed a nation of people for God to saved, glorious you are. Thanks be to the mighty Father, you've united people from different places and colors. Lastly the rule which is far beyond greater than any empire, so this empire of empire is not like any other.",
+                "startIntroPart2": "Quote: 'The more you give, the more you have.' Will you once more rule the world for the Lord's desire.",
+	  	
+		"declaringWar": "Hence, Forth!",
+		"attacked": "I'm dissapointed! Why declare destruction, is there no fun in peace and prosperity?",
+		"defeated": "Colziand is its people, me, and Him.",
+		"introduction": "Kumusta sa'inyo. O estranghero, saan ka galing?",
+		"neutralHello": "Oh greeting high above",
+		"hateHello": "You speak in pride, I don't wanna hear it",
+		"tradeRequest": "It appears that you have a golden interest of our goods",
+		"cities": ["Colziane", "Suzainswellia", "Buenlyssia", "Fullysia", "Reigna", "Caballeron", "Lead-Diah", "Ravdon Mond", "Sabert Zhang", 
+			   "Colziantozant", "Adophant", "Coldelton", "Mega Complexcity", "Sheeno"],
+		"outerColor": [255,128,0],
+		"innerColor": [255,255,0], 
+		"uniqueName": "Domain Rule",
+		"uniques": ["[+1 Science] from [All] tiles [in all cities]","Starts with [Currency]",
+			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
+			    "Military Units gifted from City-States start with [+100] XP", "[-25]% Culture cost of adopting new Policies", 
+			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States",
+			    "May choose [1] additional belief(s) of any type when [founding] a religion","Cannot build [Warrior] units",
+          "May choose [1] additional belief(s) of any type when [enhancing] a religion","Cannot build [Scout] units"],
+		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
+	}
+]
