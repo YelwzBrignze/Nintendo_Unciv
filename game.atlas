@@ -3,7 +3,7 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Monastery
+NationIcons/Colziand
   rotate: false
   xy: 838, 970
   size: 100, 100
