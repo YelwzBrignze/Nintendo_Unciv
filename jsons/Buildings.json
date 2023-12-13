@@ -1,0 +1,37 @@
+[
+  {
+		"name": "Monastery",
+		"gold": 2,
+		"faith": 2,
+    "happiness": 1,
+		"uniques": ["Unsellable", "Unbuildable", "Hidden when religion is disabled"]
+	},
+  {
+        "name": "Stupa",
+        "faith": 3,
+        "culture": 3,
+        "uniques": [
+            "Unbuildable","Unsellable",
+            "Hidden when religion is disabled"
+        ]
+    },
+    {
+        "name": "Dar-e Mehr",
+        "faith": 4,
+        "science" 2,
+        "uniques": [
+            "Unbuildable","Unsellable",
+            "Hidden when religion is disabled"
+        ]
+    },
+    {
+        "name": "Meeting House",
+        "production": 2,
+        "faith": 3,
+        "food": 1,
+        "uniques": [
+            "Unbuildable","Unsellable",
+            "Hidden when religion is disabled"
+        ]
+    }
+]
