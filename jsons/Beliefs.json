@@ -4,6 +4,11 @@
         "type": "Follower",
         "uniques": ["May buy [Stupa] buildings for [380] [Faith] [in cities following this religion]"]
     },
+  {
+        "name": "Meeting House",
+        "type": "Follower",
+        "uniques": ["May buy [Meeting House] buildings for [380] [Faith] [in cities following this religion]"]
+    },
 {
         "name": "Dar-e Mehr",
         "type": "Follower",
