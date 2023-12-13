@@ -1,4 +1,5 @@
 [
+	
   {
 		"name": "Colziand Domain",
 		"leaderName": "Raymond Sheen Caballero",
@@ -22,12 +23,44 @@
 		"outerColor": [255,128,0],
 		"innerColor": [255,255,0], 
 		"uniqueName": "Domain Rule",
-		"uniques": ["[+1 Science] from [All] tiles [in all cities]","Starts with [Currency]",
+		"uniques": ["[+1 Science] from [All] tiles [in all cities]","Starts with [Currency]","May buy [Vihara] buildings for [150] [Faith] [in cities following this religion]",
+"May buy [Synagogue] buildings for [200] [Faith] [in cities following this religion]","May buy [Pagoda] buildings for [200] [Faith] [in cities following this religion]",
+"May buy [Mosque] buildings for [150] [Faith] [in cities following this religion]","May buy [Mandir] buildings for [270] [Faith] [in cities following this religion]",
+			"May buy [Gurdwara] buildings for [200] [Faith] [in cities following this religion]","May buy [Cathedral] buildings for [150] [Faith] [in cities following this religion]",
 			    "[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory",
 			    "Military Units gifted from City-States start with [+100] XP", "[-25]% Culture cost of adopting new Policies", 
 			    "[+50]% [Food] from City-States","[+50]% [Culture] from City-States","[+50]% [Faith] from City-States",
 			    "May choose [1] additional belief(s) of any type when [founding] a religion","Cannot build [Warrior] units",
           "May choose [1] additional belief(s) of any type when [enhancing] a religion","Cannot build [Scout] units"],
 		"spyNames": ["Raymond", "Uzaine", "Richard", "Shinami", "Yushira", "Minashi", "Roger", "Chloe", "Chief", "Julia"]
+	},
+//City-States
+	{
+		"name": "Dublin",
+		"adjective": ["Dubliner"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
+		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Ireland!",
+		"defeated": "A lonely wind blows through the highlands today. A dirge for Ireland. Can you hear it?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [211,180,113],
+
+		"uniques": [],
+		"cities": ["Dublin"]
+	},
+	{
+		"name": "Edinburgh",
+		"adjective": ["Edinburghensian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
+		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your head!",
+		"defeated": "Vile ruler, know that you 'won' this war in name only!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,102,102],
+
+		"uniques": [],
+		"cities": ["Edinburgh"]
 	}
 ]
