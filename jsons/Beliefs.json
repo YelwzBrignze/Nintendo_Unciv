@@ -14,7 +14,20 @@
         "type": "Follower",
         "uniques": ["May buy [Dar-e Mehr] buildings for [380] [Faith] [in cities following this religion]"]
     },
-  
+  {
+		"name": "Monastery",
+		"cost": 0,
+		"culture": 2,
+		"faith": 2,
+		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+			"Unbuildable", "Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+  {
+        "name": "Monasteries",
+        "type": "Follower",
+        "uniques": ["May buy [Monastery] buildings for [180] [Faith] [in cities following this religion]"]
+    },
 {
         "name": "Wat",
         "type": "Follower",
