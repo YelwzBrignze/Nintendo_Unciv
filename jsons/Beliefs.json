@@ -1,0 +1,18 @@
+[
+  {
+        "name": "Stupa",
+        "type": "Follower",
+        "uniques": ["May buy [Stupa] buildings for [380] [Faith] [in cities following this religion]"]
+    },
+{
+        "name": "Dar-e Mehr",
+        "type": "Follower",
+        "uniques": ["May buy [Dar-e Mehr] buildings for [380] [Faith] [in cities following this religion]"]
+    },
+  
+{
+        "name": "Wat",
+        "type": "Follower",
+        "uniques": ["May buy [Wat] buildings for [380] [Faith] [in cities following this religion]"]
+    }
+]
