@@ -1,3 +1,13 @@
+build.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+
+
+
+
 game9.png
 size: 2048, 2048
 format: RGBA8888
