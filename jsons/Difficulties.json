@@ -13,7 +13,7 @@
         "barbarianBonus": 0.1,
     "playersFreeTechs": ["Pottery","Animal Husbandry","Mining","The Wheel"],
     "playersExchangeTechs": true,
-        "playerBonusStartingUnits": ["Settler","Settler","Worker","Scout","Era Starting Unit","Era Starting Unit","Era Starting Unit"],
+        "playerBonusStartingUnits": ["Settler","Settler","Worker","Scout","Era Starting Unit","Era Starting Unit","Mechanized Infantry"],
         "aiCityGrowthModifier": 0.6,
         "aiUnitCostModifier": 0.5,
         "aiBuildingCostModifier": 0.5,
