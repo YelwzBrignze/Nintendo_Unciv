@@ -1,7 +1,7 @@
 [
 {
        "name": "Kampung Teluk",
-	"uniqueTo": "Indonesia",
+	"uniqueTo": "Siam",
        "terrainsCanBeBuiltOn": ["Coast"],
        "production":1,
        "techRequired":"Optics",
@@ -16,7 +16,7 @@
    },
 	{
 		"name": "Idendo",
-    "uniqueTo": "Norway",
+    "uniqueTo": "Spain",
 		"terrainsCanBeBuiltOn": ["Tundra","Snow"],
 		"food": 1,
 		"turnsToBuild": 6,
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "Jolopong",
-		"uniqueTo": "Finland",
+		"uniqueTo": "Siam",
 		"replaces": "Polder",
 		"food": 2,
 		"science": 1,
@@ -46,7 +46,7 @@
 	},
 	{
 		"name": "Seaside Stall",
-		"uniqueTo": "Phoenicia",
+		"uniqueTo": "Spain",
 		"replaces": "Trading post",
 		"gold": 1,
 		"terrainsCanBeBuiltOn": ["Coast"],
@@ -58,7 +58,7 @@
 	},
 		{
 		"name": "Colossal Head",
-    "uniqueTo": "The Maya",
+    "uniqueTo": "Siam",
 		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
 		"faith": 1,
 		"turnsToBuild": 6,
@@ -76,7 +76,7 @@
 	},
 			{
 		"name": "Kurgan",
-		"uniqueTo": "Golden Horde",
+		"uniqueTo": "Spain",
 		"terrainsCanBeBuiltOn": ["Plains"],
 		"culture": 2,
 		"turnsToBuild": 8,
@@ -85,8 +85,7 @@
 	},
 	{
 		"name": "Holy Place",
-		"uniqueTo": "Israel",
-		"replaces": "Holy Site",
+		"uniqueTo": "Siam",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 8,
 		"happiness": 2,
@@ -96,7 +95,7 @@
 	},
 	{
 		"name": "Dzirvanas",
-		"uniqueTo": "Ukraine",
+		"uniqueTo": "Spain",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 1,
 		"turnsToBuild": 8,
